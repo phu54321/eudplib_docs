@@ -18,13 +18,3 @@ eudplib 간단정리 튜토리얼
    article3
    article4
    article5
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
